@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bok Choy's Superhero Class
+* source:	https://sketchfab.com/3d-models/bok-choys-superhero-class-2655809207234d108a7c2481df0e6c72
+* author:	321Blender (https://sketchfab.com/321Blender)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bok Choy's Superhero Class" (https://sketchfab.com/3d-models/bok-choys-superhero-class-2655809207234d108a7c2481df0e6c72) by 321Blender (https://sketchfab.com/321Blender) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

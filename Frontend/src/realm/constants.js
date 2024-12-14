@@ -1,0 +1,1 @@
+export const APP_ID = "virtual_metaverse_teacher-yvckt";

@@ -1,0 +1,11 @@
+Model Information:
+* title:	AMP suite from Avatar
+* source:	https://sketchfab.com/3d-models/amp-suite-from-avatar-46658c9605584d8297fc79ca4f802dc5
+* author:	arunkumar2057 (https://sketchfab.com/arunkumar2057)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "AMP suite from Avatar" (https://sketchfab.com/3d-models/amp-suite-from-avatar-46658c9605584d8297fc79ca4f802dc5) by arunkumar2057 (https://sketchfab.com/arunkumar2057) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
