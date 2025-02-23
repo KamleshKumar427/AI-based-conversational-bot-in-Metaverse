@@ -21,5 +21,5 @@ KamleshKumar427/AI_based_Virtual_teacher_in_Metaverse
 
 Demos:
 
-https://drive.google.com/file/d/1rBarKoMD_nZNI6asL4fGu7c9tYbXu-Wk/view?usp=sharing
-https://drive.google.com/file/d/1ZAaMT6IeORTLBC7rMj0wL9NdtUjuZNCd/view?usp=sharing
+https://youtu.be/NsOlRwO2ySA
+https://youtu.be/pmDor2gSEjU
